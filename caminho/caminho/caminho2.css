@@ -72,7 +72,7 @@ a.active,a:active,a:focus,a:hover
 .btn-primary
 {
 	color:#fff;
-	background-color:#de9922;;
+	background-color:#de9922;
 	border-color:#de9922;
 }
 
@@ -93,12 +93,12 @@ fieldset[disabled] .btn-primary,fieldset[disabled] .btn-primary.active,
 fieldset[disabled] .btn-primary:active,fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover
 {
-	background-color:#de9922;;
+	background-color:#de9922;
 	border-color:#de9922;
 }
 
 .btn-primary .badge{
-	color:#de9922;;
+	color:#de9922;
 	background-color:#fff
 }
 
@@ -128,7 +128,7 @@ fieldset[disabled] .btn-xl,fieldset[disabled] .btn-xl.active,
 fieldset[disabled] .btn-xl:active,fieldset[disabled] .btn-xl:focus,
 fieldset[disabled] .btn-xl:hover
 {
-	background-color:#de9922;;
+	background-color:#de9922;
 	border-color:#de9922;
 }
 
@@ -145,7 +145,7 @@ fieldset[disabled] .btn-xl:hover
 
 .navbar-custom .navbar-brand
 {
-	color:#de9922;;
+	color:#de9922;
 	font-family:"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive
 }
 
@@ -169,8 +169,8 @@ fieldset[disabled] .btn-xl:hover
 
 .navbar-custom .navbar-toggle
 {
-	background-color:#de9922;;
-	border-color:#de9922;;
+	background-color:#de9922;
+	border-color:#de9922;
 	font-size:12px
 }
 

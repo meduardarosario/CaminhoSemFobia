@@ -3,3 +3,8 @@ C:\Users\MariaEduarda\Desktop\Projeto visual\caminho\caminho\bin\caminho.pdb
 C:\Users\MariaEduarda\Desktop\Projeto visual\caminho\caminho\obj\Debug\caminho.csprojResolveAssemblyReference.cache
 C:\Users\MariaEduarda\Desktop\Projeto visual\caminho\caminho\obj\Debug\caminho.dll
 C:\Users\MariaEduarda\Desktop\Projeto visual\caminho\caminho\obj\Debug\caminho.pdb
+D:\CaminhoSemFobia\caminho\caminho\bin\caminho.dll
+D:\CaminhoSemFobia\caminho\caminho\bin\caminho.pdb
+D:\CaminhoSemFobia\caminho\caminho\obj\Debug\caminho.csprojResolveAssemblyReference.cache
+D:\CaminhoSemFobia\caminho\caminho\obj\Debug\caminho.dll
+D:\CaminhoSemFobia\caminho\caminho\obj\Debug\caminho.pdb
