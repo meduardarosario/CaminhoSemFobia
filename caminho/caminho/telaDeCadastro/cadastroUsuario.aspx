@@ -22,9 +22,7 @@
 				<p>Denuncie violencias</p>
 				<ul class="actions">
 					<li><a href="#sobre" class="button special">O que é </a></li>
-				</ul>
-                
-               
+				</ul>               
 			</section>
 
 		<!-- One -->
