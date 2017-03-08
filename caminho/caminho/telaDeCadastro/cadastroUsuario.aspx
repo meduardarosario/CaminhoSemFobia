@@ -18,17 +18,26 @@
 
 	<!-- Banner -->
 	<section id="banner">
+    <br/>
+    <br/>
+    <br/>
+    <br/>
 	<h2>Caminho Sem Fobia</h2>
 	<p>Denuncie violencias</p>
 	<ul class="actions">
 	<li><a href="#sobre" class="button special">O que é </a></li>
-	</ul>               
+	</ul>    
+        
+    <ul class="actions">
+	<li><a href="login.aspx" class="button special">Login </a></li>
+	</ul>            
 	</section>
 
 	<!-- One -->
 	<section id="one" class="wrapper special">
 	<div class="inner">
 	<header class="major">
+    
 	<h2 id="sobre">O que pensamos</h2>
 	</header>
 	<div class="features">
@@ -55,11 +64,11 @@
 	<section id="two" class="wrapper style2 special">
 	<div class="inner narrow">
 	<header>
-	    <h2>Relate</h2>
+	    <h2>Cadastro</h2>
 	</header>
 	<form class="grid-form" method="post" action="#">
 	    <div class="form-control narrow">
-	        <label for="name">Nome</label>
+	        <label for="name">Nome Completo</label>
 	        <input name="name" id="name" type="text">
 	    </div>
 
@@ -68,13 +77,13 @@
 	        <input name="email" id="email" type="email">
 	    </div>
 
-	    <div class="form-control">
-	        <label for="message">Relato</label>
-	        <textarea name="message" id="message" rows="4"></textarea>
+	    <div class="form-control narrow">
+	        <label for="senha">Senha</label>
+	        <input name="senha" id="senha" type="senha">    
 	    </div>
 
 	    <ul class="actions">
-	        <li><input value="RELATE" type="submit"></li>
+	        <li><input value="CADASTRE" type="submit"></li>
 	    </ul>
 	</form>
 	</div>
