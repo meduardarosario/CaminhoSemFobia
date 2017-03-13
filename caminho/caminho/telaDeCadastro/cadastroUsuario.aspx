@@ -25,12 +25,13 @@
 	<h2>Caminho Sem Fobia</h2>
 	<p>Denuncie violencias</p>
 	<ul class="actions">
-	<li><a href="#sobre" class="button special">O que é </a></li>
+	<li><a href="#one" class="button special">O que é </a></li>
 	</ul>    
         
-    <ul class="actions">
-	<li><a href="login.aspx" class="button special">Login </a></li>
-	</ul>            
+    <ul class="actions2">
+	<a href="login.aspx" class="button special">Login </a></>
+	</ul>  
+        
 	</section>
 
 	<!-- One -->
