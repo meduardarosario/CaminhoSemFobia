@@ -4016,6 +4016,24 @@ fieldset[disabled] .btn-xl:hover
     margin:0px;
     padding:0px;
     }
+
+    .actions2  { /*botão do login*/
+    position:absolute;
+    top:20px;
+    right:50px;
+    margin:0px;
+    padding:0px;
+    }
+    .actions3  { /*botão do cadastro*/
+    position:absolute;
+    top:20px;
+    left:50px;
+    margin:0px;
+    padding:0px; 
+    width:120px;  
+height:24px;
+
+    }
     
     ul.social-buttons li a{
         display:block;

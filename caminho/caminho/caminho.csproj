@@ -65,6 +65,7 @@
     <Content Include="telaDeCadastro\lgbt.jpeg" />
     <Content Include="telaDeCadastro\login.aspx" />
     <Content Include="telaDeCadastro\mapaLGBT.png" />
+    <Content Include="telaDeCadastro\perfil.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -83,6 +84,13 @@
     </Compile>
     <Compile Include="telaDeCadastro\login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="telaDeCadastro\perfil.aspx.cs">
+      <DependentUpon>perfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="telaDeCadastro\perfil.aspx.designer.cs">
+      <DependentUpon>perfil.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

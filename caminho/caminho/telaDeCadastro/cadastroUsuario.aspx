@@ -80,8 +80,10 @@
 	        <input name="senha" id="senha" type="senha">    
 	    </div>
 
-	    <ul class="actions">
-	        <li><input value="CADASTRE" type="submit"></li>
+	    <ul class="actions3">
+	        
+	<!-- <li><input value="CADASTRE" type="submit"></li> -->            
+        <a href="perfil.aspx" class="button special">Cadastre </a></>
 	    </ul>
 	</form>
 	</div>
