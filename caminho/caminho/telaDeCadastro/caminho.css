@@ -3254,7 +3254,7 @@
     background-image:url(dança.gif);
     padding:  25px 50px 75px 100px;
     text-align: center;
-    height:757.5px;
+    height:757px;
     background-repeat:no-repeat;
     background-size:50%;
     background-position:center;
@@ -3754,7 +3754,7 @@ fieldset[disabled] .btn-xl:hover
     }
 	
     header .intro-text{
-        padding-top:100px;
+        padding-top:50px;
         padding-bottom:50px
     }
 
