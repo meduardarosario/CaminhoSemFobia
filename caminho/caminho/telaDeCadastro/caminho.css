@@ -3210,7 +3210,7 @@
 	@media screen and (max-width: 980px) {
 
 	.wrapper {
-	padding: 4em 2em 2em 2em;
+	padding:50%;
 	}
 
 	.wrapper > .inner {
@@ -3222,7 +3222,7 @@
 	@media screen and (max-width: 736px) {
 
 	.wrapper {
-	padding: 3em 1.5em 1em 1.5em;
+	padding:50%;
 	}
 
 	.wrapper > .inner.narrow {
@@ -3381,7 +3381,7 @@
 	}
 
 
-/* Footer */
+/* Footer 
 
 	#footer {
 	background-color: #f7f7f7;
@@ -3499,7 +3499,7 @@
 	padding: 2em 1em 0.1em 1em;
 	}
 
-	}
+	}*/
 
  .btn-primary.active,.btn-primary:active,
  .btn-xl.active,.btn-xl:active,
@@ -3802,7 +3802,7 @@ fieldset[disabled] .btn-xl:hover
     }
 
     section{
-        padding:50px 0
+        padding:50px
     }
     section h2.section-heading{
         font-size:40px;

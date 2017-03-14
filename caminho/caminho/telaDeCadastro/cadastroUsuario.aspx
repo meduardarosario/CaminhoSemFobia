@@ -495,12 +495,6 @@ print 'It took ' + i + ' iterations to sort the deck.';
 	</section>
 	-->
 
-	<!-- Footer -->
-	<footer id="footer">
-	<p>Volte sempre</p>
-	</div>
-	</footer>
-
 	<!-- Scripts -->
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/skel.min.js"></script>
