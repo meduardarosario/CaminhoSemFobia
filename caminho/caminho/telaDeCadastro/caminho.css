@@ -2741,16 +2741,15 @@
 	}
 
 	.wrapper.style1 .feature .fa {
-	color: #009a9c;
+	color: black;
 	}
 
 	.wrapper.style2 {
-	background-color: #f7f7f7;
-	color: #444;
+	background-color: #f7f7f7; /*cor da div*/
 	}
 
 	.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
-	color: #555;
+	color: #555; /*cor do cursor no campo de escrita e da letra tbm*/
 	}
 
 	.wrapper.style2 a {
@@ -4017,13 +4016,7 @@ fieldset[disabled] .btn-xl:hover
     padding:0px;
     }
 
-    .actions2  { /*botão do login*/
-    position:absolute;
-    top:20px;
-    right:50px;
-    margin:0px;
-    padding:0px;
-    }
+    
     .actions3  { /*botão do cadastro*/
     position:absolute;
     top:20px;
