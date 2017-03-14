@@ -18,12 +18,9 @@
 
 	<!-- Banner -->
 	<section id="banner">
-    <br/>
-    <br/>
-    <br/>
-    <br/>
+   
 	<h2>Caminho Sem Fobia</h2>
-	<p>Denuncie violencias</p>
+	<p>Denuncie violências</p>
 	<ul class="actions">
 	<li><a href="#one" class="button special">O que é </a></li>
 	</ul>    
