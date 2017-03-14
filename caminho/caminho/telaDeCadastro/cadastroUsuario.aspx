@@ -89,8 +89,9 @@
 	    <ul class="actions3">
 	        
 	<!-- <li><input value="CADASTRE" type="submit"></li> -->            
-        <a href="perfil.aspx" class="button special">Cadastre </a></>
+            </>
 	    </ul>
+        <a href="perfil.aspx" class="button special">Cadastre </a>
 	</form>
 	</div>
 	</section>

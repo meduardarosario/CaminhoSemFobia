@@ -27,7 +27,8 @@
 	    </div>
 
 	    <ul class="actions">
-	        <li><input value="ENTRAR" type="submit"></li>
+        <a href="perfil.aspx" class="button special">Entrar </a></>
+	     <!--   <li><input value="ENTRAR" type="submit" href="perfil.aspx"></li> -->
 	    </ul>
 	</form>
 	</div>

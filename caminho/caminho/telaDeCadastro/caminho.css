@@ -2733,7 +2733,7 @@
 	}
 
 	.wrapper.style2 {
-	background-color: #f7f7f7; /*cor da div*/
+	background-color: white; /*cor da div do cadastro*/
 	}
 
 	.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -2817,9 +2817,11 @@
 	.wrapper.style2 input[type="button"].special,
 	.wrapper.style2 button.special,
 	.wrapper.style2 .button.special {
-	background-color: #00cdcf;
+	background-color: black; /*cor do botão cadastro*/
 	color: #ffffff !important;
-	}
+  
+   
+}
 
 	.wrapper.style2 input[type="submit"].special:hover,
 	.wrapper.style2 input[type="reset"].special:hover,
@@ -2846,8 +2848,8 @@
 	.wrapper.style2 input[type="email"],
 	.wrapper.style2 select,
 	.wrapper.style2 textarea {
-	background: #fff;
-	border-color: #ddd;
+	background: #fff; /*cor do fundo do campo de email e nome completo*/
+	border-color: #ddd; /*cor da borda*/
 	}
 
 	.wrapper.style2 input[type="text"]:focus,
@@ -2855,7 +2857,7 @@
 	.wrapper.style2 input[type="email"]:focus,
 	.wrapper.style2 select:focus,
 	.wrapper.style2 textarea:focus {
-	border-color: #00cdcf;
+	border-color: white; /*cor da borda*/
 	box-shadow: 0 0 0 1px #00cdcf;
 	}
 
@@ -3241,9 +3243,9 @@
     background-image:url(dança.gif);
     padding:  25px 50px 75px 100px;
     text-align: center;
-    height:750px;
+    height:757px;
     background-repeat:no-repeat;
-    background-size:40%;
+    background-size:50%;
     background-position:center;
 
     }
