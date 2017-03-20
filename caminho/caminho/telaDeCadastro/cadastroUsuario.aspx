@@ -87,11 +87,10 @@
 	    </div>
 
 	    <ul class="actions3">
-	        
+	        <a href="perfil.aspx" class="button special">Cadastre </a>
 	<!-- <li><input value="CADASTRE" type="submit"></li> -->            
             </>
-	    </ul>
-        <a href="perfil.aspx" class="button special">Cadastre </a>
+	    </ul>      
 	</form>
 	</div>
 	</section>
