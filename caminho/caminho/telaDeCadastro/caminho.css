@@ -2733,7 +2733,7 @@
 	}
 
 	.wrapper.style2 {
-	background-color: #F5F5F5; /*cor da div do cadastro*/
+	background-color: #FFF5EE; /*cor da div do cadastro*/
 	}
 
 	.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -4009,7 +4009,7 @@ fieldset[disabled] .btn-xl:hover
     .actions3  { /*botão do cadastro*/
      position:absolute;
     top:500px;
-    right:559px;
+    right:635px;
     margin:0px;
     padding:0px;
 
