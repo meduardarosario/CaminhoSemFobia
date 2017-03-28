@@ -2538,7 +2538,7 @@
 	.wrapper { /* muda o tamanho da ultima div */
 	padding: 6em 0 4em 0;
 	position: relative;
-    height:635px;
+    height:755px;
 	}
 
 	.wrapper > .inner {
@@ -4009,7 +4009,7 @@ fieldset[disabled] .btn-xl:hover
     .actions3  { /*botão do cadastro*/
      position:absolute;
     top:500px;
-    right:635px;
+    right:555px;
     margin:0px;
     padding:0px;
 
